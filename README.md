@@ -26,10 +26,4 @@ To run this project locally, ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (Recommended version: 16.x or later)
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) for managing dependencies
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/task-management-app.git
-   cd task-management-app
